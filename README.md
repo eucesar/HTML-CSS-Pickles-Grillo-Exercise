@@ -4,8 +4,7 @@
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </p>
 
-> ✍️ - I created a website for a database company, just to consolidate my HTML|CSS base.
-
+> ✍️ - I developed a site about a Pickles company, a very complete site. Just to consolidate my HTML|CSS base.
 
 ## Download
 
