@@ -1,0 +1,81 @@
+main{
+    background-color: var(--branco);
+    margin-bottom: 5em;
+}
+
+.titulo-main1{
+    font-size: 50px;
+    color: var(--preto);
+    text-align: center;
+    font-weight: bolder;
+    margin: 2em 0 1em 0;
+    
+}
+
+.paragrafo-main2{
+    font-size: 20px;
+    color: var(--preto);
+    text-align: center;
+    margin-bottom: 10em;
+}
+
+.paragrafo-main3{
+    font-size: 20px;
+    color: var(--preto);
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.container-paisagem-imagem{
+    display: flex;
+    justify-content: center;
+
+}
+.imagem-paisagem1{
+    margin-right: 20px;
+}
+    
+.imagem-paisagem2{
+    margin-right: 20px;
+}
+    
+.imagem-paisagem3{
+    margin-right: 20px;
+}
+
+.container-btn{
+    text-align: center;
+}
+
+.btn-main{
+    background-color: var(--salmao);
+    padding: 18px;
+    border: solid;
+    color: var(--branco);
+    font-size: 15px;
+    cursor: pointer;
+   margin: 40px 0 8em 0;
+}
+
+.rosinha{
+    width: 100%;
+
+}
+
+.container-alimentos-imagem{
+    display: flex;
+    justify-content: center;
+    margin: 30px
+}
+
+.pepino{
+    margin-right: 30px;
+}
+
+.pimenta{
+    margin-right: 30px;
+}
+
+.alface{
+    margin-right: 30px;
+}
